@@ -324,6 +324,7 @@ constructor(
             return@let true
           }
       }
+      .onFailure { println(it.stackTraceToString() + " this is from softAP") }
       .getOrDefault(false)
       .also {
         _config.update { c }

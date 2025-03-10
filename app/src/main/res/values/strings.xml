@@ -91,6 +91,12 @@
     <string name="freq_band_field_label">Speed Type</string>
     <string name="save_button">Save</string>
     <string name="passphrase_empty_warning">Enter a password.</string>
+    <string name="hidden_network_field_icon">Hidden Network</string>
+    <string name="hidden_network_field_label">Hidden Network</string>
+    <string name="hidden_network_field_description">Your Mobile Hotspot\'s name won\'t appear in the list of available devices</string>
+    <string name="advanced_settings_field_label">Advanced Settings</string>
+    <string name="advanced_settings_close_action">Collapse</string>
+    <string name="advanced_settings_open_action">Expand</string>
 
     <!-- dev.shadoe.delta.shizuku.ShizukuNotConnected -->
     <string name="shizuku_not_connected_desc">
@@ -108,4 +114,7 @@
     <!-- dev.shadoe.delta.shizuku.ShizukuNotRunning -->
     <string name="shizuku_not_running">Shizuku is not running.</string>
     <string name="shizuku_start">Start Shizuku</string>
+    <string name="maximum_client_limit_field_icon">Maximum Client Limit</string>
+    <string name="maximum_client_limit_field_label">Maximum Client Limit</string>
+    <string name="maximum_client_limit_field_description">No of devices which are allowed to connect</string>
 </resources>
